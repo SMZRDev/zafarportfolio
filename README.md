@@ -1,12 +1,12 @@
-# Developer Portfolio Project
+# Developer Portfolio Project 🚀✨
 
-This is a personal portfolio project created to showcase my skills and projects. This project was built using ReactJs as a practice exercise with a friend [Sanaullah Yousaf](https://github.com/sanaullah-yousaf).
+This is a personal portfolio project created to showcase my skills and projects. This project was built using ReactJs as a practice exercise with a friend [Sanaullah Yousaf](https://github.com/sanaullah-yousaf). 🙏
 
-## Live Demo
+## Live Demo 🌐
 
 You can view the live demo of the portfolio [here](https://zafarportfolio.vercel.app).
 
-## Table of Contents
+## Table of Contents 📚
 
 - [Overview](#overview)
 - [Features](#features)
@@ -16,18 +16,18 @@ You can view the live demo of the portfolio [here](https://zafarportfolio.vercel
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## Overview
+## Overview 📝
 
 This portfolio is designed to provide a comprehensive overview of my work and skills as a developer. It includes sections for my biography, skills, projects, and contact information.
 
-## Features
+## Features ✨
 
 - Responsive design
 - Interactive UI components
 - Projects showcase
 - Contact form
 
-## Technologies Used
+## Tools and Technologies Used 🛠️
 
 - ReactJs
 - HTML5
@@ -35,15 +35,15 @@ This portfolio is designed to provide a comprehensive overview of my work and sk
 - JavaScript
 - Vercel (for hosting)
 
-## Getting Started
+## Getting Started 🚀
 
 To get a local copy up and running, follow these simple steps:
 
-### Prerequisites
+### Prerequisites 📋
 
 Make sure you have npm installed on your machine. You can download it from [here](https://nodejs.org/).
 
-### Installation
+### Installation ⚙️
 
 1. Clone the repository
 
@@ -71,7 +71,7 @@ Make sure you have npm installed on your machine. You can download it from [here
    npm start
    ```
 
-## Contributing
+## Contributing 🤝
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -81,11 +81,11 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## License 📄
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Acknowledgements
+## Acknowledgements 🙏
 
 - [ReactJs Documentation](https://reactjs.org/docs)
 - [Vercel](https://vercel.com)
