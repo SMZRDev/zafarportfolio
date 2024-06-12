@@ -4,7 +4,7 @@ This is a personal portfolio project created to showcase my skills and projects.
 
 ## Live Demo 🌐
 
-You can view the live demo of the portfolio [here](https://zafarportfolio.vercel.app).
+You can view the live demo of the portfolio [here](https://zafardevfolio.vercel.app/).
 
 ## Table of Contents 📚
 
