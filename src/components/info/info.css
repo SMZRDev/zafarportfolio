@@ -23,7 +23,6 @@
 
 .info_left_div {
   display: flex;
-  background-color: rgb(69, 39, 0);
   flex: 1;
   height: 100%;
   flex-direction: column;
@@ -54,9 +53,22 @@
 }
 
 .white_line {
-  margin-top: 40px;
+  margin-top: 100px;
+  margin-bottom: 0;
   height: 2px;
   background-color: #fff;
+}
+
+.info_left_div button {
+  background-color: #d87c44;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  width: 200px;
+  cursor: pointer;
+  font-size: large;
 }
 
 .info_right_div {
@@ -64,4 +76,15 @@
   flex: 1;
   height: 100%;
   justify-content: center;
+}
+
+.social_icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 28%;
+}
+
+.icons:hover {
+  color: #d87c44;
 }

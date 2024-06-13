@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./../header/header";
 import "./info.css";
 import infoImage from "./../../imgs/info.png";
+import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const info = () => {
   return (
@@ -20,10 +21,10 @@ const info = () => {
             <div className="white_line line"></div>
             <div className="social_icons">
               <p>Let's connect! --</p>
-              <i class="fab fa-linkedin-in"></i>
-              <i class="fab fa-github"></i>
-              <i class="fab fa-facebook-f"></i>
-              <i class="fab fa-twitter"></i>
+              <FaGithub className="icons" />
+              <FaLinkedin className="icons" />
+              <FaTwitter className="icons" />
+              <FaInstagram className="icons" />
             </div>
           </div>
           <div className="info_right_div">
