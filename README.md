@@ -1,6 +1,6 @@
 # Developer Portfolio Project 🚀✨
 
-This is a personal portfolio project created to showcase my skills and projects. This project was built using ReactJs as a practice exercise with a friend [Sanaullah Yousaf](https://github.com/sanaullah-yousaf). 🙏
+This is a personal portfolio project created to showcase my skills and projects. This project was built using ReactJs as a practice exercise with a friend [Sanaullah Yousaf](https://github.com/SomeRadGuy). 🙏
 
 ## Live Demo 🌐
 
