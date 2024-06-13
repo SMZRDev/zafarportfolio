@@ -1,10 +1,10 @@
 # Developer Portfolio Project 🚀✨
 
-This is a personal portfolio project created to showcase my skills and projects. This project was built using ReactJs as a practice exercise with a friend [Sanaullah Yousaf](https://github.com/sanaullah-yousaf). 🙏
+This is a personal portfolio project created to showcase my skills and projects. This project was built using ReactJs as a practice exercise with a friend [Sanaullah Yousaf](https://github.com/SomeRadGuy). 🙏
 
 ## Live Demo 🌐
 
-You can view the live demo of the portfolio [here](https://zafarportfolio.vercel.app).
+You can view the live demo of the portfolio [here](https://zafardevfolio.vercel.app/).
 
 ## Table of Contents 📚
 
