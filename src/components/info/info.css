@@ -35,12 +35,22 @@
   margin-bottom: 0;
 }
 
+.info_left_div h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .info_left_div p {
   font-size: 1.2rem;
 }
 
+.name {
+  color: #d87c44;
+}
+
 .line {
-  width: 30%;
+  width: 41%;
   height: 5px;
   border-radius: 50px;
   background-color: #d87c44;
@@ -82,7 +92,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 28%;
+  width: 40%;
 }
 
 .icons:hover {

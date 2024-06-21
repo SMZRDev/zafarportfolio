@@ -13,9 +13,10 @@ const info = () => {
           <div className="info_left_div">
             <div className="brown_line line"></div>
             <h1>
-              I'm <span>Zafar Rizvi</span>, a <br />
-              Front-end Developer
+              I'm <span className="name">Zafar Rizvi</span>
+              <br />
             </h1>
+            <h2>Front-end Developer</h2>
             <p>I design web apps to turn your ideas into reality.</p>
             <button>Get in Touch</button>
             <div className="white_line line"></div>
