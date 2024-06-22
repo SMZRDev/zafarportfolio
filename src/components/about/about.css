@@ -33,7 +33,38 @@
 }
 
 .about_text {
+  flex: 1;
   display: flex;
   width: 50%;
   height: 50%;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18% 0 0;
+}
+
+.about_text h1 {
+  color: #d87c44;
+  font-size: 2.2rem;
+}
+
+.about_text h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.about_text p {
+  text-align: justify;
+  font-size: 1.2rem;
+}
+
+.about_text button {
+  background-color: #d87c44;
+  color: white;
+  font-weight: 600;
+  font-size: large;
+  padding: 0.7rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
